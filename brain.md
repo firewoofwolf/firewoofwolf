@@ -1,3 +1,0 @@
-- LUA
-- GameMaker
-- Python
